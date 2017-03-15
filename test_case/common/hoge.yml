@@ -1,0 +1,7 @@
+title: hoge_test
+path: /hogefuga
+method: get
+headers:
+  Connection: closed
+params:
+  param: hoge
